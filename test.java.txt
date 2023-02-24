@@ -2,5 +2,7 @@ public class test{
 
   public void test01(){
 
+ int i=10;
+
 }
 }
